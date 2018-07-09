@@ -16,4 +16,4 @@ while True:
     print ("Good job your password is: ",password)
     break
   else:
-    print ("try again")
+    print ("Nice Try! Try Again")
